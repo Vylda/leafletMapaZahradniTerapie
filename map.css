@@ -1,0 +1,12 @@
+:root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100dvh;
+}
+.mapContainer {
+  height: 80dvh;
+  width: 80dvw;
+
+  background-color: rgb(204 222 180);
+}
